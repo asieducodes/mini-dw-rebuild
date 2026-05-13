@@ -1,0 +1,422 @@
+record_id,record_date,branch_id,region,category_id,category_name,source_id,raw_value,normal_sign,description
+REC00001,2025-06-21,BR002,Ashanti,CAT001,Sales Records,SRC004,2423.11,1.0,Sales Records entry 1
+REC00002,2025-04-04,BR004,Northern,CAT006,Supplier Records,SRC004,4753.79,1.0,Supplier Records entry 2
+REC00003,2025-05-10,BR004,Northern,CAT003,Inventory Records,SRC002,8822.57,1.0,Inventory Records entry 3
+REC00004,2025-05-01,BR001,Greater Accra,CAT003,Inventory Records,SRC002,1739.57,1.0,Inventory Records entry 4
+REC00005,2025-10-22,BR002,Ashanti,CAT006,Supplier Records,SRC003,5025.09,1.0,Supplier Records entry 5
+REC00006,2025-05-16,BR004,Northern,CAT002,Expense Records,SRC003,111.45,-1.0,Expense Records entry 6
+REC00007,2025-10-03,BR004,Northern,CAT002,Expense Records,SRC004,1712.72,-1.0,Expense Records entry 7
+REC00008,2025-05-19,BR005,Central,CAT005,Payment Records,SRC003,5919.32,1.0,Payment Records entry 8
+REC00009,2025-05-25,BR003,Western,CAT005,Payment Records,SRC001,4730.83,1.0,Payment Records entry 9
+REC00010,2025-11-20,BR005,Central,CAT002,Expense Records,SRC004,3824.3,-1.0,Expense Records entry 10
+REC00011,2025-03-09,BR002,Ashanti,CAT002,Expense Records,SRC004,2001.08,-1.0,Expense Records entry 11
+REC00012,2025-04-14,BR004,Northern,CAT005,Payment Records,SRC001,5807.28,1.0,Payment Records entry 12
+REC00013,2025-02-15,BR005,Central,CAT003,Inventory Records,SRC004,4869.24,1.0,Inventory Records entry 13
+REC00014,2025-02-10,BR004,Northern,CAT002,Expense Records,SRC004,1257.96,-1.0,Expense Records entry 14
+REC00015,2025-04-15,BR001,Greater Accra,CAT005,Payment Records,SRC003,9144.87,1.0,Payment Records entry 15
+REC00016,2025-03-10,BR004,Northern,CAT005,Payment Records,SRC001,7598.25,1.0,Payment Records entry 16
+REC00017,2025-07-27,BR001,Greater Accra,CAT004,Customer Records,SRC004,1859.17,1.0,Customer Records entry 17
+REC00018,2025-07-23,BR004,Northern,CAT002,Expense Records,SRC003,3289.31,-1.0,Expense Records entry 18
+REC00019,2025-06-23,BR003,Western,CAT002,Expense Records,SRC003,3526.72,-1.0,Expense Records entry 19
+REC00020,2025-08-11,BR005,Central,CAT003,Inventory Records,SRC002,9745.28,1.0,Inventory Records entry 20
+REC00021,2025-03-16,BR005,Central,CAT001,Sales Records,SRC004,7554.32,1.0,Sales Records entry 21
+REC00022,2025-01-03,BR005,Central,CAT006,Supplier Records,SRC004,5089.86,1.0,Supplier Records entry 22
+REC00023,2025-01-05,BR005,Central,CAT004,Customer Records,SRC001,7556.08,1.0,Customer Records entry 23
+REC00024,2025-09-03,BR003,Western,CAT004,Customer Records,SRC004,6021.36,1.0,Customer Records entry 24
+REC00025,2025-04-26,BR004,Northern,CAT004,Customer Records,SRC002,1769.87,1.0,Customer Records entry 25
+REC00026,2025-09-11,BR002,Ashanti,CAT003,Inventory Records,SRC003,667.82,1.0,Inventory Records entry 26
+REC00027,2025-09-26,BR001,Greater Accra,CAT003,Inventory Records,SRC002,1565.07,1.0,Inventory Records entry 27
+REC00028,2025-03-25,BR002,Ashanti,CAT003,Inventory Records,SRC001,8242.69,1.0,Inventory Records entry 28
+REC00029,2025-02-24,BR002,Ashanti,CAT002,Expense Records,SRC003,2851.85,-1.0,Expense Records entry 29
+REC00030,2025-02-15,BR001,Greater Accra,CAT003,Inventory Records,SRC003,5948.78,1.0,Inventory Records entry 30
+REC00031,2025-07-23,BR003,Western,CAT006,Supplier Records,SRC002,6880.86,1.0,Supplier Records entry 31
+REC00032,2025-05-20,BR005,Central,CAT004,Customer Records,SRC001,9077.6,1.0,Customer Records entry 32
+REC00033,2025-07-25,BR001,Greater Accra,CAT005,Payment Records,SRC003,2753.01,1.0,Payment Records entry 33
+REC00034,2025-07-11,BR002,Ashanti,CAT003,Inventory Records,SRC002,1422.68,1.0,Inventory Records entry 34
+REC00035,2025-06-17,BR004,Northern,CAT001,Sales Records,SRC001,8200.97,1.0,Sales Records entry 35
+REC00036,2025-09-29,BR003,Western,CAT005,Payment Records,SRC004,5655.17,1.0,Payment Records entry 36
+REC00037,2025-08-28,BR002,Ashanti,CAT006,Supplier Records,SRC001,8702.97,1.0,Supplier Records entry 37
+REC00038,2025-04-23,BR003,Western,CAT002,Expense Records,SRC001,1796.77,-1.0,Expense Records entry 38
+REC00039,2025-09-29,BR005,Central,CAT006,Supplier Records,SRC004,7576.68,1.0,Supplier Records entry 39
+REC00040,2025-06-07,BR005,Central,CAT004,Customer Records,SRC004,4518.1,1.0,Customer Records entry 40
+REC00041,2025-04-15,BR001,Greater Accra,CAT005,Payment Records,SRC002,270.32,1.0,Payment Records entry 41
+REC00042,2025-02-03,BR004,Northern,CAT006,Supplier Records,SRC003,5700.2,1.0,Supplier Records entry 42
+REC00043,2025-10-03,BR003,Western,CAT002,Expense Records,SRC002,740.78,-1.0,Expense Records entry 43
+REC00044,2025-04-28,BR003,Western,CAT001,Sales Records,SRC002,7054.87,1.0,Sales Records entry 44
+REC00045,2025-09-27,BR004,Northern,CAT003,Inventory Records,SRC001,4216.52,1.0,Inventory Records entry 45
+REC00046,2025-08-01,BR005,Central,CAT002,Expense Records,SRC003,725.85,-1.0,Expense Records entry 46
+REC00047,2025-11-11,BR004,Northern,CAT005,Payment Records,SRC002,2766.6,1.0,Payment Records entry 47
+REC00048,2025-09-17,BR001,Greater Accra,CAT005,Payment Records,SRC003,641.73,1.0,Payment Records entry 48
+REC00049,2025-11-13,BR004,Northern,CAT003,Inventory Records,SRC003,237.53,1.0,Inventory Records entry 49
+REC00050,2025-01-12,BR005,Central,CAT005,Payment Records,SRC002,1725.51,1.0,Payment Records entry 50
+REC00051,2025-07-30,BR003,Western,CAT002,Expense Records,SRC002,394.61,-1.0,Expense Records entry 51
+REC00052,2025-08-21,BR005,Central,CAT002,Expense Records,SRC001,2652.06,-1.0,Expense Records entry 52
+REC00053,2025-09-07,BR002,Ashanti,CAT004,Customer Records,SRC001,4752.53,1.0,Customer Records entry 53
+REC00054,2025-11-23,BR002,Ashanti,CAT004,Customer Records,SRC003,2654.4,1.0,Customer Records entry 54
+REC00055,2025-07-13,BR003,Western,CAT002,Expense Records,SRC002,4057.63,-1.0,Expense Records entry 55
+REC00056,2025-07-10,BR003,Western,CAT006,Supplier Records,SRC003,2179.45,1.0,Supplier Records entry 56
+REC00057,2025-07-20,BR001,Greater Accra,CAT005,Payment Records,SRC002,747.59,1.0,Payment Records entry 57
+REC00058,2025-04-19,BR004,Northern,CAT003,Inventory Records,SRC003,4727.72,1.0,Inventory Records entry 58
+REC00059,2025-06-24,BR001,Greater Accra,CAT003,Inventory Records,SRC002,3342.21,1.0,Inventory Records entry 59
+REC00060,2025-01-19,BR004,Northern,CAT003,Inventory Records,SRC002,9113.97,1.0,Inventory Records entry 60
+REC00061,2025-11-11,BR002,Ashanti,CAT002,Expense Records,SRC002,794.25,-1.0,Expense Records entry 61
+REC00062,2025-03-06,BR002,Ashanti,CAT001,Sales Records,SRC001,5537.77,1.0,Sales Records entry 62
+REC00063,2025-05-04,BR003,Western,CAT002,Expense Records,SRC001,3241.06,-1.0,Expense Records entry 63
+REC00064,2025-10-11,BR002,Ashanti,CAT003,Inventory Records,SRC003,3224.78,1.0,Inventory Records entry 64
+REC00065,2025-05-13,BR005,Central,CAT003,Inventory Records,SRC003,2858.83,1.0,Inventory Records entry 65
+REC00066,2025-07-08,BR003,Western,CAT002,Expense Records,SRC004,2052.38,-1.0,Expense Records entry 66
+REC00067,2025-05-21,BR003,Western,CAT005,Payment Records,SRC001,4612.34,1.0,Payment Records entry 67
+REC00068,2025-04-29,BR002,Ashanti,CAT004,Customer Records,SRC003,4638.84,1.0,Customer Records entry 68
+REC00069,2025-05-13,BR002,Ashanti,CAT004,Customer Records,SRC002,3078.37,1.0,Customer Records entry 69
+REC00070,2025-05-13,BR004,Northern,CAT006,Supplier Records,SRC003,9039.45,1.0,Supplier Records entry 70
+REC00071,2025-05-31,BR004,Northern,CAT003,Inventory Records,SRC002,5638.41,1.0,Inventory Records entry 71
+REC00072,2025-07-21,BR004,Northern,CAT006,Supplier Records,SRC002,536.74,1.0,Supplier Records entry 72
+REC00073,2025-01-29,BR005,Central,CAT001,Sales Records,SRC003,7549.64,1.0,Sales Records entry 73
+REC00074,2025-08-02,BR004,Northern,CAT004,Customer Records,SRC001,8598.74,1.0,Customer Records entry 74
+REC00075,2025-10-12,BR003,Western,CAT004,Customer Records,SRC003,2036.61,1.0,Customer Records entry 75
+REC00076,2025-10-21,BR004,Northern,CAT003,Inventory Records,SRC004,8823.0,1.0,Inventory Records entry 76
+REC00077,2025-02-05,BR005,Central,CAT001,Sales Records,SRC002,7414.9,1.0,Sales Records entry 77
+REC00078,2025-06-24,BR005,Central,CAT005,Payment Records,SRC004,7920.43,1.0,Payment Records entry 78
+REC00079,2025-10-05,BR004,Northern,CAT003,Inventory Records,SRC003,8648.74,1.0,Inventory Records entry 79
+REC00080,2025-05-25,BR005,Central,CAT003,Inventory Records,SRC002,1769.91,1.0,Inventory Records entry 80
+REC00081,2025-07-16,BR003,Western,CAT001,Sales Records,SRC002,7557.15,1.0,Sales Records entry 81
+REC00082,2025-02-25,BR003,Western,CAT005,Payment Records,SRC004,4660.18,1.0,Payment Records entry 82
+REC00083,2025-11-19,BR003,Western,CAT003,Inventory Records,SRC002,872.36,1.0,Inventory Records entry 83
+REC00084,2025-07-29,BR002,Ashanti,CAT003,Inventory Records,SRC002,4044.94,1.0,Inventory Records entry 84
+REC00085,2025-06-10,BR001,Greater Accra,CAT001,Sales Records,SRC004,3182.08,1.0,Sales Records entry 85
+REC00086,2025-02-14,BR005,Central,CAT002,Expense Records,SRC001,3786.83,-1.0,Expense Records entry 86
+REC00087,2025-03-26,BR005,Central,CAT005,Payment Records,SRC002,8939.99,1.0,Payment Records entry 87
+REC00088,2025-07-19,BR001,Greater Accra,CAT001,Sales Records,SRC002,8263.22,1.0,Sales Records entry 88
+REC00089,2025-09-19,BR001,Greater Accra,CAT005,Payment Records,SRC002,6053.7,1.0,Payment Records entry 89
+REC00090,2025-06-23,BR004,Northern,CAT004,Customer Records,SRC002,1448.97,1.0,Customer Records entry 90
+REC00091,2025-01-25,BR005,Central,CAT004,Customer Records,SRC004,5381.91,1.0,Customer Records entry 91
+REC00092,2025-08-21,BR002,Ashanti,CAT004,Customer Records,SRC003,6760.54,1.0,Customer Records entry 92
+REC00093,2025-02-16,BR004,Northern,CAT001,Sales Records,SRC004,507.55,1.0,Sales Records entry 93
+REC00094,2025-02-01,BR005,Central,CAT003,Inventory Records,SRC002,6675.77,1.0,Inventory Records entry 94
+REC00095,2025-06-23,BR003,Western,CAT005,Payment Records,SRC002,9750.5,1.0,Payment Records entry 95
+REC00096,2025-01-15,BR001,Greater Accra,CAT001,Sales Records,SRC001,1173.77,1.0,Sales Records entry 96
+REC00097,2025-08-22,BR003,Western,CAT003,Inventory Records,SRC003,9470.6,1.0,Inventory Records entry 97
+REC00098,2025-05-29,BR002,Ashanti,CAT003,Inventory Records,SRC004,7330.75,1.0,Inventory Records entry 98
+REC00099,2025-02-05,BR001,Greater Accra,CAT002,Expense Records,SRC004,4746.42,-1.0,Expense Records entry 99
+REC00100,2025-05-07,BR003,Western,CAT006,Supplier Records,SRC003,5518.56,1.0,Supplier Records entry 100
+REC00101,2025-11-23,BR001,Greater Accra,CAT005,Payment Records,SRC004,1212.04,1.0,Payment Records entry 101
+REC00102,2025-03-02,BR003,Western,CAT001,Sales Records,SRC004,2729.51,1.0,Sales Records entry 102
+REC00103,2025-06-11,BR002,Ashanti,CAT006,Supplier Records,SRC001,7814.72,1.0,Supplier Records entry 103
+REC00104,2025-08-04,BR005,Central,CAT003,Inventory Records,SRC002,1800.74,1.0,Inventory Records entry 104
+REC00105,2025-08-26,BR002,Ashanti,CAT006,Supplier Records,SRC004,6099.8,1.0,Supplier Records entry 105
+REC00106,2025-03-18,BR002,Ashanti,CAT006,Supplier Records,SRC001,5108.79,1.0,Supplier Records entry 106
+REC00107,2025-11-09,BR003,Western,CAT003,Inventory Records,SRC002,3772.12,1.0,Inventory Records entry 107
+REC00108,2025-07-05,BR004,Northern,CAT005,Payment Records,SRC002,2415.0,1.0,Payment Records entry 108
+REC00109,2025-07-19,BR003,Western,CAT005,Payment Records,SRC004,3492.6,1.0,Payment Records entry 109
+REC00110,2025-03-16,BR002,Ashanti,CAT004,Customer Records,SRC004,4661.84,1.0,Customer Records entry 110
+REC00111,2025-09-12,BR003,Western,CAT002,Expense Records,SRC002,2278.26,-1.0,Expense Records entry 111
+REC00112,2025-06-06,BR004,Northern,CAT002,Expense Records,SRC001,3412.92,-1.0,Expense Records entry 112
+REC00113,2025-09-02,BR001,Greater Accra,CAT001,Sales Records,SRC001,2484.48,1.0,Sales Records entry 113
+REC00114,2025-09-20,BR004,Northern,CAT001,Sales Records,SRC004,3627.76,1.0,Sales Records entry 114
+REC00115,2025-01-24,BR005,Central,CAT006,Supplier Records,SRC003,3311.65,1.0,Supplier Records entry 115
+REC00116,2025-03-07,BR003,Western,CAT002,Expense Records,SRC001,4784.94,-1.0,Expense Records entry 116
+REC00117,2025-05-03,BR005,Central,CAT005,Payment Records,SRC002,1786.36,1.0,Payment Records entry 117
+REC00118,2025-07-20,BR001,Greater Accra,CAT004,Customer Records,SRC003,1318.57,1.0,Customer Records entry 118
+REC00119,2025-03-21,BR004,Northern,CAT002,Expense Records,SRC003,789.58,-1.0,Expense Records entry 119
+REC00120,2025-10-31,BR001,Greater Accra,CAT003,Inventory Records,SRC004,1872.66,1.0,Inventory Records entry 120
+REC00121,2025-11-21,BR003,Western,CAT003,Inventory Records,SRC004,5618.45,1.0,Inventory Records entry 121
+REC00122,2025-09-01,BR002,Ashanti,CAT001,Sales Records,SRC003,5359.82,1.0,Sales Records entry 122
+REC00123,2025-10-25,BR003,Western,CAT004,Customer Records,SRC004,4564.42,1.0,Customer Records entry 123
+REC00124,2025-09-11,BR004,Northern,CAT004,Customer Records,SRC002,5352.79,1.0,Customer Records entry 124
+REC00125,2025-10-01,BR004,Northern,CAT006,Supplier Records,SRC003,488.55,1.0,Supplier Records entry 125
+REC00126,2025-07-10,BR002,Ashanti,CAT005,Payment Records,SRC002,2611.82,1.0,Payment Records entry 126
+REC00127,2025-04-07,BR005,Central,CAT001,Sales Records,SRC004,9116.9,1.0,Sales Records entry 127
+REC00128,2025-02-17,BR001,Greater Accra,CAT002,Expense Records,SRC002,4321.07,-1.0,Expense Records entry 128
+REC00129,2025-01-13,BR003,Western,CAT002,Expense Records,SRC001,1652.26,-1.0,Expense Records entry 129
+REC00130,2025-08-29,BR005,Central,CAT004,Customer Records,SRC002,217.96,1.0,Customer Records entry 130
+REC00131,2025-07-25,BR002,Ashanti,CAT002,Expense Records,SRC003,2872.73,-1.0,Expense Records entry 131
+REC00132,2025-01-20,BR001,Greater Accra,CAT004,Customer Records,SRC004,8233.34,1.0,Customer Records entry 132
+REC00133,2025-08-11,BR002,Ashanti,CAT003,Inventory Records,SRC003,1178.21,1.0,Inventory Records entry 133
+REC00134,2025-08-08,BR005,Central,CAT003,Inventory Records,SRC003,8732.82,1.0,Inventory Records entry 134
+REC00135,2025-03-04,BR003,Western,CAT003,Inventory Records,SRC003,6649.79,1.0,Inventory Records entry 135
+REC00136,2025-01-29,BR001,Greater Accra,CAT001,Sales Records,SRC004,5040.7,1.0,Sales Records entry 136
+REC00137,2025-06-19,BR005,Central,CAT006,Supplier Records,SRC002,1616.37,1.0,Supplier Records entry 137
+REC00138,2025-01-06,BR001,Greater Accra,CAT006,Supplier Records,SRC001,8442.1,1.0,Supplier Records entry 138
+REC00139,2025-08-22,BR005,Central,CAT003,Inventory Records,SRC004,903.12,1.0,Inventory Records entry 139
+REC00140,2025-11-09,BR002,Ashanti,CAT004,Customer Records,SRC001,4215.05,1.0,Customer Records entry 140
+REC00141,2025-08-06,BR004,Northern,CAT002,Expense Records,SRC002,2775.11,-1.0,Expense Records entry 141
+REC00142,2025-05-03,BR004,Northern,CAT003,Inventory Records,SRC002,5760.8,1.0,Inventory Records entry 142
+REC00143,2025-09-23,BR003,Western,CAT001,Sales Records,SRC002,5310.64,1.0,Sales Records entry 143
+REC00144,2025-07-29,BR003,Western,CAT002,Expense Records,SRC004,2854.99,-1.0,Expense Records entry 144
+REC00145,2025-01-19,BR004,Northern,CAT006,Supplier Records,SRC002,6871.41,1.0,Supplier Records entry 145
+REC00146,2025-05-28,BR001,Greater Accra,CAT005,Payment Records,SRC003,4400.03,1.0,Payment Records entry 146
+REC00147,2025-09-19,BR001,Greater Accra,CAT004,Customer Records,SRC002,5962.7,1.0,Customer Records entry 147
+REC00148,2025-06-01,BR001,Greater Accra,CAT001,Sales Records,SRC003,138.9,1.0,Sales Records entry 148
+REC00149,2025-11-14,BR001,Greater Accra,CAT004,Customer Records,SRC001,7543.31,1.0,Customer Records entry 149
+REC00150,2025-02-28,BR004,Northern,CAT001,Sales Records,SRC001,8069.62,1.0,Sales Records entry 150
+REC00151,2025-01-12,BR002,Ashanti,CAT006,Supplier Records,SRC004,8432.06,1.0,Supplier Records entry 151
+REC00152,2025-11-19,BR001,Greater Accra,CAT002,Expense Records,SRC001,3990.92,-1.0,Expense Records entry 152
+REC00153,2025-07-24,BR003,Western,CAT003,Inventory Records,SRC002,5320.29,1.0,Inventory Records entry 153
+REC00154,2025-11-20,BR005,Central,CAT006,Supplier Records,SRC004,8172.47,1.0,Supplier Records entry 154
+REC00155,2025-04-05,BR001,Greater Accra,CAT004,Customer Records,SRC004,6329.6,1.0,Customer Records entry 155
+REC00156,2025-02-10,BR005,Central,CAT005,Payment Records,SRC004,6005.85,1.0,Payment Records entry 156
+REC00157,2025-01-28,BR002,Ashanti,CAT002,Expense Records,SRC001,765.16,-1.0,Expense Records entry 157
+REC00158,2025-05-26,BR004,Northern,CAT001,Sales Records,SRC004,3413.27,1.0,Sales Records entry 158
+REC00159,2025-09-05,BR001,Greater Accra,CAT002,Expense Records,SRC001,707.58,-1.0,Expense Records entry 159
+REC00160,2025-06-03,BR005,Central,CAT005,Payment Records,SRC001,844.06,1.0,Payment Records entry 160
+REC00161,2025-06-10,BR003,Western,CAT004,Customer Records,SRC002,6186.14,1.0,Customer Records entry 161
+REC00162,2025-11-08,BR003,Western,CAT003,Inventory Records,SRC003,6010.14,1.0,Inventory Records entry 162
+REC00163,2025-09-24,BR001,Greater Accra,CAT004,Customer Records,SRC004,9497.29,1.0,Customer Records entry 163
+REC00164,2025-01-28,BR001,Greater Accra,CAT006,Supplier Records,SRC003,3250.37,1.0,Supplier Records entry 164
+REC00165,2025-06-28,BR003,Western,CAT005,Payment Records,SRC003,8973.62,1.0,Payment Records entry 165
+REC00166,2025-01-26,BR003,Western,CAT002,Expense Records,SRC002,4593.93,-1.0,Expense Records entry 166
+REC00167,2025-08-26,BR002,Ashanti,CAT001,Sales Records,SRC004,220.06,1.0,Sales Records entry 167
+REC00168,2025-05-12,BR003,Western,CAT004,Customer Records,SRC002,6824.02,1.0,Customer Records entry 168
+REC00169,2025-05-04,BR003,Western,CAT004,Customer Records,SRC004,9645.34,1.0,Customer Records entry 169
+REC00170,2025-07-02,BR001,Greater Accra,CAT001,Sales Records,SRC001,6463.63,1.0,Sales Records entry 170
+REC00171,2025-09-05,BR002,Ashanti,CAT001,Sales Records,SRC001,6857.11,1.0,Sales Records entry 171
+REC00172,2025-07-30,BR001,Greater Accra,CAT006,Supplier Records,SRC004,7724.53,1.0,Supplier Records entry 172
+REC00173,2025-05-27,BR001,Greater Accra,CAT005,Payment Records,SRC003,7542.58,1.0,Payment Records entry 173
+REC00174,2025-09-14,BR002,Ashanti,CAT006,Supplier Records,SRC001,5122.59,1.0,Supplier Records entry 174
+REC00175,2025-01-02,BR004,Northern,CAT006,Supplier Records,SRC001,2927.66,1.0,Supplier Records entry 175
+REC00176,2025-04-17,BR001,Greater Accra,CAT006,Supplier Records,SRC004,1487.92,1.0,Supplier Records entry 176
+REC00177,2025-06-06,BR004,Northern,CAT004,Customer Records,SRC003,5616.57,1.0,Customer Records entry 177
+REC00178,2025-09-17,BR003,Western,CAT006,Supplier Records,SRC003,3396.92,1.0,Supplier Records entry 178
+REC00179,2025-06-27,BR002,Ashanti,CAT002,Expense Records,SRC003,4000.38,-1.0,Expense Records entry 179
+REC00180,2025-11-09,BR002,Ashanti,CAT006,Supplier Records,SRC004,3221.92,1.0,Supplier Records entry 180
+REC00181,2025-02-02,BR002,Ashanti,CAT005,Payment Records,SRC003,7047.67,1.0,Payment Records entry 181
+REC00182,2025-08-09,BR004,Northern,CAT001,Sales Records,SRC004,9427.22,1.0,Sales Records entry 182
+REC00183,2025-11-05,BR002,Ashanti,CAT001,Sales Records,SRC003,7024.81,1.0,Sales Records entry 183
+REC00184,2025-07-30,BR002,Ashanti,CAT003,Inventory Records,SRC003,1052.76,1.0,Inventory Records entry 184
+REC00185,2025-04-07,BR003,Western,CAT004,Customer Records,SRC004,6206.82,1.0,Customer Records entry 185
+REC00186,2025-08-28,BR002,Ashanti,CAT005,Payment Records,SRC002,2973.42,1.0,Payment Records entry 186
+REC00187,2025-10-23,BR003,Western,CAT003,Inventory Records,SRC001,6658.04,1.0,Inventory Records entry 187
+REC00188,2025-02-23,BR005,Central,CAT003,Inventory Records,SRC004,7715.71,1.0,Inventory Records entry 188
+REC00189,2025-02-17,BR002,Ashanti,CAT005,Payment Records,SRC002,5754.02,1.0,Payment Records entry 189
+REC00190,2025-02-09,BR002,Ashanti,CAT001,Sales Records,SRC004,1043.2,1.0,Sales Records entry 190
+REC00191,2025-08-08,BR001,Greater Accra,CAT006,Supplier Records,SRC002,2266.85,1.0,Supplier Records entry 191
+REC00192,2025-11-13,BR005,Central,CAT005,Payment Records,SRC003,7282.15,1.0,Payment Records entry 192
+REC00193,2025-10-21,BR004,Northern,CAT001,Sales Records,SRC004,1151.27,1.0,Sales Records entry 193
+REC00194,2025-02-15,BR005,Central,CAT005,Payment Records,SRC002,1731.76,1.0,Payment Records entry 194
+REC00195,2025-03-10,BR003,Western,CAT004,Customer Records,SRC002,1201.74,1.0,Customer Records entry 195
+REC00196,2025-06-14,BR002,Ashanti,CAT001,Sales Records,SRC002,408.04,1.0,Sales Records entry 196
+REC00197,2025-10-04,BR005,Central,CAT003,Inventory Records,SRC001,1510.39,1.0,Inventory Records entry 197
+REC00198,2025-06-03,BR002,Ashanti,CAT006,Supplier Records,SRC003,4290.11,1.0,Supplier Records entry 198
+REC00199,2025-06-04,BR003,Western,CAT005,Payment Records,SRC004,4183.37,1.0,Payment Records entry 199
+REC00200,2025-11-05,BR004,Northern,CAT005,Payment Records,SRC003,3012.6,1.0,Payment Records entry 200
+REC00201,2025-08-26,BR002,Ashanti,CAT006,Supplier Records,SRC003,8933.94,1.0,Supplier Records entry 201
+REC00202,2025-01-01,BR005,Central,CAT001,Sales Records,SRC002,4673.12,1.0,Sales Records entry 202
+REC00203,2025-10-25,BR003,Western,CAT003,Inventory Records,SRC001,4477.68,1.0,Inventory Records entry 203
+REC00204,2025-03-19,BR003,Western,CAT001,Sales Records,SRC001,1005.87,1.0,Sales Records entry 204
+REC00205,2025-07-19,BR002,Ashanti,CAT005,Payment Records,SRC003,262.46,1.0,Payment Records entry 205
+REC00206,2025-08-16,BR005,Central,CAT003,Inventory Records,SRC004,3136.17,1.0,Inventory Records entry 206
+REC00207,2025-08-05,BR002,Ashanti,CAT003,Inventory Records,SRC001,341.41,1.0,Inventory Records entry 207
+REC00208,2025-11-17,BR002,Ashanti,CAT002,Expense Records,SRC003,4621.99,-1.0,Expense Records entry 208
+REC00209,2025-06-23,BR004,Northern,CAT003,Inventory Records,SRC003,9016.32,1.0,Inventory Records entry 209
+REC00210,2025-08-15,BR003,Western,CAT004,Customer Records,SRC004,3215.64,1.0,Customer Records entry 210
+REC00211,2025-10-09,BR002,Ashanti,CAT006,Supplier Records,SRC003,5970.88,1.0,Supplier Records entry 211
+REC00212,2025-02-14,BR004,Northern,CAT001,Sales Records,SRC001,7265.83,1.0,Sales Records entry 212
+REC00213,2025-05-29,BR005,Central,CAT004,Customer Records,SRC004,2157.34,1.0,Customer Records entry 213
+REC00214,2025-01-08,BR001,Greater Accra,CAT001,Sales Records,SRC001,2479.95,1.0,Sales Records entry 214
+REC00215,2025-01-22,BR002,Ashanti,CAT001,Sales Records,SRC004,432.45,1.0,Sales Records entry 215
+REC00216,2025-08-07,BR003,Western,CAT003,Inventory Records,SRC002,2866.25,1.0,Inventory Records entry 216
+REC00217,2025-03-07,BR001,Greater Accra,CAT003,Inventory Records,SRC001,2601.21,1.0,Inventory Records entry 217
+REC00218,2025-10-10,BR005,Central,CAT002,Expense Records,SRC001,2107.7,-1.0,Expense Records entry 218
+REC00219,2025-07-10,BR002,Ashanti,CAT006,Supplier Records,SRC004,3498.38,1.0,Supplier Records entry 219
+REC00220,2025-04-15,BR001,Greater Accra,CAT003,Inventory Records,SRC001,6455.02,1.0,Inventory Records entry 220
+REC00221,2025-10-09,BR001,Greater Accra,CAT004,Customer Records,SRC002,2160.7,1.0,Customer Records entry 221
+REC00222,2025-11-25,BR005,Central,CAT003,Inventory Records,SRC003,3965.41,1.0,Inventory Records entry 222
+REC00223,2025-07-16,BR005,Central,CAT001,Sales Records,SRC003,230.06,1.0,Sales Records entry 223
+REC00224,2025-09-21,BR003,Western,CAT005,Payment Records,SRC003,4979.7,1.0,Payment Records entry 224
+REC00225,2025-10-02,BR001,Greater Accra,CAT003,Inventory Records,SRC001,2901.41,1.0,Inventory Records entry 225
+REC00226,2025-11-19,BR003,Western,CAT005,Payment Records,SRC004,6480.27,1.0,Payment Records entry 226
+REC00227,2025-01-28,BR002,Ashanti,CAT005,Payment Records,SRC003,1500.95,1.0,Payment Records entry 227
+REC00228,2025-08-21,BR005,Central,CAT006,Supplier Records,SRC004,3976.41,1.0,Supplier Records entry 228
+REC00229,2025-02-09,BR005,Central,CAT006,Supplier Records,SRC003,7461.77,1.0,Supplier Records entry 229
+REC00230,2025-09-19,BR003,Western,CAT003,Inventory Records,SRC004,9504.45,1.0,Inventory Records entry 230
+REC00231,2025-09-14,BR004,Northern,CAT003,Inventory Records,SRC004,2902.57,1.0,Inventory Records entry 231
+REC00232,2025-09-24,BR004,Northern,CAT002,Expense Records,SRC002,1087.76,-1.0,Expense Records entry 232
+REC00233,2025-05-01,BR002,Ashanti,CAT001,Sales Records,SRC003,5383.75,1.0,Sales Records entry 233
+REC00234,2025-04-06,BR001,Greater Accra,CAT002,Expense Records,SRC004,3934.52,-1.0,Expense Records entry 234
+REC00235,2025-11-20,BR004,Northern,CAT001,Sales Records,SRC002,8921.14,1.0,Sales Records entry 235
+REC00236,2025-09-21,BR003,Western,CAT003,Inventory Records,SRC003,200.69,1.0,Inventory Records entry 236
+REC00237,2025-01-23,BR004,Northern,CAT005,Payment Records,SRC002,2200.77,1.0,Payment Records entry 237
+REC00238,2025-04-30,BR003,Western,CAT001,Sales Records,SRC002,5426.94,1.0,Sales Records entry 238
+REC00239,2025-03-20,BR004,Northern,CAT005,Payment Records,SRC001,6015.24,1.0,Payment Records entry 239
+REC00240,2025-07-16,BR001,Greater Accra,CAT003,Inventory Records,SRC003,803.62,1.0,Inventory Records entry 240
+REC00241,2025-10-28,BR003,Western,CAT004,Customer Records,SRC001,8290.76,1.0,Customer Records entry 241
+REC00242,2025-01-26,BR004,Northern,CAT005,Payment Records,SRC003,553.53,1.0,Payment Records entry 242
+REC00243,2025-01-25,BR002,Ashanti,CAT004,Customer Records,SRC003,2234.47,1.0,Customer Records entry 243
+REC00244,2025-11-06,BR004,Northern,CAT004,Customer Records,SRC003,6918.44,1.0,Customer Records entry 244
+REC00245,2025-08-10,BR004,Northern,CAT001,Sales Records,SRC002,9297.09,1.0,Sales Records entry 245
+REC00246,2025-05-08,BR003,Western,CAT003,Inventory Records,SRC003,2118.05,1.0,Inventory Records entry 246
+REC00247,2025-11-24,BR004,Northern,CAT006,Supplier Records,SRC004,1180.73,1.0,Supplier Records entry 247
+REC00248,2025-04-23,BR001,Greater Accra,CAT004,Customer Records,SRC001,5969.98,1.0,Customer Records entry 248
+REC00249,2025-03-23,BR003,Western,CAT001,Sales Records,SRC004,6570.59,1.0,Sales Records entry 249
+REC00250,2025-11-16,BR002,Ashanti,CAT004,Customer Records,SRC002,5066.02,1.0,Customer Records entry 250
+REC00251,2025-05-14,BR004,Northern,CAT004,Customer Records,SRC002,9773.62,1.0,Customer Records entry 251
+REC00252,2025-10-17,BR005,Central,CAT005,Payment Records,SRC003,6795.86,1.0,Payment Records entry 252
+REC00253,2025-11-09,BR001,Greater Accra,CAT004,Customer Records,SRC001,5779.07,1.0,Customer Records entry 253
+REC00254,2025-06-27,BR005,Central,CAT002,Expense Records,SRC003,1753.91,-1.0,Expense Records entry 254
+REC00255,2025-07-12,BR001,Greater Accra,CAT004,Customer Records,SRC002,2599.55,1.0,Customer Records entry 255
+REC00256,2025-02-21,BR002,Ashanti,CAT004,Customer Records,SRC003,7143.8,1.0,Customer Records entry 256
+REC00257,2025-03-22,BR003,Western,CAT003,Inventory Records,SRC004,1243.91,1.0,Inventory Records entry 257
+REC00258,2025-10-06,BR002,Ashanti,CAT006,Supplier Records,SRC004,2014.37,1.0,Supplier Records entry 258
+REC00259,2025-01-30,BR005,Central,CAT003,Inventory Records,SRC003,8270.65,1.0,Inventory Records entry 259
+REC00260,2025-11-09,BR002,Ashanti,CAT004,Customer Records,SRC001,3978.24,1.0,Customer Records entry 260
+REC00261,2025-08-31,BR001,Greater Accra,CAT003,Inventory Records,SRC003,5568.27,1.0,Inventory Records entry 261
+REC00262,2025-04-05,BR001,Greater Accra,CAT003,Inventory Records,SRC004,7133.74,1.0,Inventory Records entry 262
+REC00263,2025-01-04,BR005,Central,CAT006,Supplier Records,SRC004,3336.25,1.0,Supplier Records entry 263
+REC00264,2025-08-23,BR001,Greater Accra,CAT005,Payment Records,SRC004,9502.84,1.0,Payment Records entry 264
+REC00265,2025-07-06,BR001,Greater Accra,CAT001,Sales Records,SRC002,6652.65,1.0,Sales Records entry 265
+REC00266,2025-10-14,BR002,Ashanti,CAT003,Inventory Records,SRC002,2116.5,1.0,Inventory Records entry 266
+REC00267,2025-11-18,BR003,Western,CAT003,Inventory Records,SRC004,5393.3,1.0,Inventory Records entry 267
+REC00268,2025-01-06,BR004,Northern,CAT005,Payment Records,SRC001,6684.53,1.0,Payment Records entry 268
+REC00269,2025-07-01,BR003,Western,CAT002,Expense Records,SRC001,3107.01,-1.0,Expense Records entry 269
+REC00270,2025-09-24,BR004,Northern,CAT005,Payment Records,SRC004,6561.42,1.0,Payment Records entry 270
+REC00271,2025-01-28,BR004,Northern,CAT003,Inventory Records,SRC001,6151.22,1.0,Inventory Records entry 271
+REC00272,2025-08-08,BR002,Ashanti,CAT005,Payment Records,SRC001,9776.57,1.0,Payment Records entry 272
+REC00273,2025-06-15,BR001,Greater Accra,CAT005,Payment Records,SRC004,1404.65,1.0,Payment Records entry 273
+REC00274,2025-03-16,BR005,Central,CAT002,Expense Records,SRC003,1388.68,-1.0,Expense Records entry 274
+REC00275,2025-07-06,BR005,Central,CAT005,Payment Records,SRC002,8656.71,1.0,Payment Records entry 275
+REC00276,2025-04-15,BR004,Northern,CAT001,Sales Records,SRC002,2890.56,1.0,Sales Records entry 276
+REC00277,2025-05-08,BR004,Northern,CAT003,Inventory Records,SRC002,3439.13,1.0,Inventory Records entry 277
+REC00278,2025-10-29,BR004,Northern,CAT003,Inventory Records,SRC001,9278.66,1.0,Inventory Records entry 278
+REC00279,2025-08-15,BR004,Northern,CAT002,Expense Records,SRC001,2682.69,-1.0,Expense Records entry 279
+REC00280,2025-04-14,BR003,Western,CAT002,Expense Records,SRC004,1404.52,-1.0,Expense Records entry 280
+REC00281,2025-10-28,BR001,Greater Accra,CAT006,Supplier Records,SRC001,1073.13,1.0,Supplier Records entry 281
+REC00282,2025-01-27,BR003,Western,CAT001,Sales Records,SRC004,103.97,1.0,Sales Records entry 282
+REC00283,2025-06-29,BR003,Western,CAT001,Sales Records,SRC002,6944.02,1.0,Sales Records entry 283
+REC00284,2025-09-24,BR002,Ashanti,CAT002,Expense Records,SRC003,2427.41,-1.0,Expense Records entry 284
+REC00285,2025-08-15,BR004,Northern,CAT004,Customer Records,SRC004,505.15,1.0,Customer Records entry 285
+REC00286,2025-09-24,BR004,Northern,CAT003,Inventory Records,SRC004,3636.76,1.0,Inventory Records entry 286
+REC00287,2025-03-31,BR002,Ashanti,CAT003,Inventory Records,SRC003,6805.16,1.0,Inventory Records entry 287
+REC00288,2025-02-09,BR003,Western,CAT003,Inventory Records,SRC001,9323.3,1.0,Inventory Records entry 288
+REC00289,2025-01-03,BR005,Central,CAT002,Expense Records,SRC002,3168.58,-1.0,Expense Records entry 289
+REC00290,2025-08-27,BR003,Western,CAT001,Sales Records,SRC004,5105.14,1.0,Sales Records entry 290
+REC00291,2025-01-22,BR001,Greater Accra,CAT006,Supplier Records,SRC004,740.62,1.0,Supplier Records entry 291
+REC00292,2025-08-19,BR003,Western,CAT005,Payment Records,SRC002,7676.17,1.0,Payment Records entry 292
+REC00293,2025-07-14,BR001,Greater Accra,CAT004,Customer Records,SRC001,6931.02,1.0,Customer Records entry 293
+REC00294,2025-05-11,BR002,Ashanti,CAT003,Inventory Records,SRC004,8298.92,1.0,Inventory Records entry 294
+REC00295,2025-07-14,BR001,Greater Accra,CAT002,Expense Records,SRC001,3438.4,-1.0,Expense Records entry 295
+REC00296,2025-05-18,BR005,Central,CAT001,Sales Records,SRC003,4576.94,1.0,Sales Records entry 296
+REC00297,2025-04-10,BR005,Central,CAT002,Expense Records,SRC003,2374.61,-1.0,Expense Records entry 297
+REC00298,2025-07-28,BR005,Central,CAT003,Inventory Records,SRC003,3452.87,1.0,Inventory Records entry 298
+REC00299,2025-07-05,BR002,Ashanti,CAT001,Sales Records,SRC002,8917.97,1.0,Sales Records entry 299
+REC00300,2025-02-28,BR001,Greater Accra,CAT001,Sales Records,SRC003,6237.41,1.0,Sales Records entry 300
+REC00301,2025-06-18,BR005,Central,CAT003,Inventory Records,SRC003,9148.34,1.0,Inventory Records entry 301
+REC00302,2025-07-22,BR002,Ashanti,CAT005,Payment Records,SRC001,8411.33,1.0,Payment Records entry 302
+REC00303,2025-07-30,BR002,Ashanti,CAT006,Supplier Records,SRC003,5115.22,1.0,Supplier Records entry 303
+REC00304,2025-08-12,BR004,Northern,CAT004,Customer Records,SRC004,5077.44,1.0,Customer Records entry 304
+REC00305,2025-03-13,BR002,Ashanti,CAT005,Payment Records,SRC003,2598.71,1.0,Payment Records entry 305
+REC00306,2025-02-17,BR004,Northern,CAT003,Inventory Records,SRC002,7631.25,1.0,Inventory Records entry 306
+REC00307,2025-02-24,BR004,Northern,CAT001,Sales Records,SRC002,9476.81,1.0,Sales Records entry 307
+REC00308,2025-03-06,BR001,Greater Accra,CAT005,Payment Records,SRC002,6977.4,1.0,Payment Records entry 308
+REC00309,2025-01-07,BR002,Ashanti,CAT006,Supplier Records,SRC003,9280.84,1.0,Supplier Records entry 309
+REC00310,2025-09-18,BR005,Central,CAT001,Sales Records,SRC003,2249.48,1.0,Sales Records entry 310
+REC00311,2025-10-29,BR003,Western,CAT004,Customer Records,SRC004,7073.97,1.0,Customer Records entry 311
+REC00312,2025-11-20,BR003,Western,CAT003,Inventory Records,SRC001,1767.42,1.0,Inventory Records entry 312
+REC00313,2025-07-17,BR005,Central,CAT005,Payment Records,SRC002,9518.02,1.0,Payment Records entry 313
+REC00314,2025-02-04,BR004,Northern,CAT006,Supplier Records,SRC003,9741.04,1.0,Supplier Records entry 314
+REC00315,2025-02-10,BR002,Ashanti,CAT006,Supplier Records,SRC001,8381.37,1.0,Supplier Records entry 315
+REC00316,2025-10-14,BR003,Western,CAT002,Expense Records,SRC002,2824.44,-1.0,Expense Records entry 316
+REC00317,2025-01-17,BR001,Greater Accra,CAT005,Payment Records,SRC002,8002.55,1.0,Payment Records entry 317
+REC00318,2025-02-22,BR001,Greater Accra,CAT006,Supplier Records,SRC004,786.47,1.0,Supplier Records entry 318
+REC00319,2025-07-31,BR002,Ashanti,CAT005,Payment Records,SRC001,1637.54,1.0,Payment Records entry 319
+REC00320,2025-04-20,BR005,Central,CAT003,Inventory Records,SRC001,7654.53,1.0,Inventory Records entry 320
+REC00321,2025-06-09,BR002,Ashanti,CAT004,Customer Records,SRC003,3306.37,1.0,Customer Records entry 321
+REC00322,2025-10-29,BR003,Western,CAT006,Supplier Records,SRC004,9398.07,1.0,Supplier Records entry 322
+REC00323,2025-11-18,BR002,Ashanti,CAT003,Inventory Records,SRC003,7299.53,1.0,Inventory Records entry 323
+REC00324,2025-10-18,BR002,Ashanti,CAT002,Expense Records,SRC001,2936.95,-1.0,Expense Records entry 324
+REC00325,2025-02-05,BR002,Ashanti,CAT004,Customer Records,SRC004,4749.47,1.0,Customer Records entry 325
+REC00326,2025-10-24,BR001,Greater Accra,CAT006,Supplier Records,SRC001,7494.45,1.0,Supplier Records entry 326
+REC00327,2025-09-09,BR004,Northern,CAT004,Customer Records,SRC002,1774.69,1.0,Customer Records entry 327
+REC00328,2025-09-11,BR003,Western,CAT003,Inventory Records,SRC002,406.49,1.0,Inventory Records entry 328
+REC00329,2025-05-10,BR001,Greater Accra,CAT001,Sales Records,SRC003,3161.25,1.0,Sales Records entry 329
+REC00330,2025-02-07,BR003,Western,CAT002,Expense Records,SRC004,3082.77,-1.0,Expense Records entry 330
+REC00331,2025-04-11,BR005,Central,CAT005,Payment Records,SRC003,1571.45,1.0,Payment Records entry 331
+REC00332,2025-05-13,BR003,Western,CAT004,Customer Records,SRC001,2860.89,1.0,Customer Records entry 332
+REC00333,2025-02-21,BR004,Northern,CAT001,Sales Records,SRC002,3344.4,1.0,Sales Records entry 333
+REC00334,2025-01-17,BR003,Western,CAT005,Payment Records,SRC004,1330.82,1.0,Payment Records entry 334
+REC00335,2025-07-09,BR003,Western,CAT006,Supplier Records,SRC004,8158.42,1.0,Supplier Records entry 335
+REC00336,2025-10-23,BR001,Greater Accra,CAT004,Customer Records,SRC004,5832.8,1.0,Customer Records entry 336
+REC00337,2025-11-21,BR002,Ashanti,CAT004,Customer Records,SRC003,6254.47,1.0,Customer Records entry 337
+REC00338,2025-07-08,BR004,Northern,CAT003,Inventory Records,SRC003,7144.76,1.0,Inventory Records entry 338
+REC00339,2025-06-17,BR005,Central,CAT002,Expense Records,SRC004,644.23,-1.0,Expense Records entry 339
+REC00340,2025-01-06,BR001,Greater Accra,CAT003,Inventory Records,SRC002,708.13,1.0,Inventory Records entry 340
+REC00341,2025-06-10,BR001,Greater Accra,CAT003,Inventory Records,SRC002,1236.09,1.0,Inventory Records entry 341
+REC00342,2025-02-24,BR002,Ashanti,CAT005,Payment Records,SRC003,4122.42,1.0,Payment Records entry 342
+REC00343,2025-04-06,BR004,Northern,CAT002,Expense Records,SRC003,1434.52,-1.0,Expense Records entry 343
+REC00344,2025-08-09,BR003,Western,CAT002,Expense Records,SRC004,2937.17,-1.0,Expense Records entry 344
+REC00345,2025-07-12,BR004,Northern,CAT002,Expense Records,SRC002,2156.18,-1.0,Expense Records entry 345
+REC00346,2025-04-11,BR001,Greater Accra,CAT001,Sales Records,SRC001,1314.62,1.0,Sales Records entry 346
+REC00347,2025-05-18,BR005,Central,CAT001,Sales Records,SRC001,1892.18,1.0,Sales Records entry 347
+REC00348,2025-10-23,BR003,Western,CAT002,Expense Records,SRC003,1644.89,-1.0,Expense Records entry 348
+REC00349,2025-10-31,BR005,Central,CAT002,Expense Records,SRC004,4116.31,-1.0,Expense Records entry 349
+REC00350,2025-08-08,BR005,Central,CAT006,Supplier Records,SRC004,9634.74,1.0,Supplier Records entry 350
+REC00351,2025-03-09,BR004,Northern,CAT003,Inventory Records,SRC001,8485.68,1.0,Inventory Records entry 351
+REC00352,2025-04-01,BR001,Greater Accra,CAT005,Payment Records,SRC002,6323.21,1.0,Payment Records entry 352
+REC00353,2025-06-23,BR003,Western,CAT005,Payment Records,SRC004,3032.0,1.0,Payment Records entry 353
+REC00354,2025-01-22,BR001,Greater Accra,CAT004,Customer Records,SRC002,9738.1,1.0,Customer Records entry 354
+REC00355,2025-07-16,BR005,Central,CAT003,Inventory Records,SRC001,4179.65,1.0,Inventory Records entry 355
+REC00356,2025-09-07,BR001,Greater Accra,CAT006,Supplier Records,SRC004,9521.3,1.0,Supplier Records entry 356
+REC00357,2025-06-08,BR001,Greater Accra,CAT002,Expense Records,SRC003,1538.04,-1.0,Expense Records entry 357
+REC00358,2025-04-08,BR001,Greater Accra,CAT005,Payment Records,SRC003,2222.85,1.0,Payment Records entry 358
+REC00359,2025-04-03,BR005,Central,CAT001,Sales Records,SRC002,4631.45,1.0,Sales Records entry 359
+REC00360,2025-01-02,BR003,Western,CAT006,Supplier Records,SRC004,8612.97,1.0,Supplier Records entry 360
+REC00361,2025-10-30,BR003,Western,CAT006,Supplier Records,SRC003,5064.55,1.0,Supplier Records entry 361
+REC00362,2025-11-26,BR002,Ashanti,CAT004,Customer Records,SRC001,1189.09,1.0,Customer Records entry 362
+REC00363,2025-05-20,BR005,Central,CAT003,Inventory Records,SRC001,1066.75,1.0,Inventory Records entry 363
+REC00364,2025-03-08,BR001,Greater Accra,CAT002,Expense Records,SRC003,523.5,-1.0,Expense Records entry 364
+REC00365,2025-06-13,BR003,Western,CAT006,Supplier Records,SRC004,5388.69,1.0,Supplier Records entry 365
+REC00366,2025-07-04,BR004,Northern,CAT003,Inventory Records,SRC002,4035.37,1.0,Inventory Records entry 366
+REC00367,2025-04-03,BR005,Central,CAT004,Customer Records,SRC003,513.02,1.0,Customer Records entry 367
+REC00368,2025-10-15,BR005,Central,CAT006,Supplier Records,SRC004,7772.22,1.0,Supplier Records entry 368
+REC00369,2025-09-26,BR002,Ashanti,CAT003,Inventory Records,SRC003,4625.73,1.0,Inventory Records entry 369
+REC00370,2025-02-23,BR003,Western,CAT005,Payment Records,SRC004,2814.47,1.0,Payment Records entry 370
+REC00371,2025-10-17,BR005,Central,CAT006,Supplier Records,SRC003,824.86,1.0,Supplier Records entry 371
+REC00372,2025-03-07,BR002,Ashanti,CAT006,Supplier Records,SRC003,3556.28,1.0,Supplier Records entry 372
+REC00373,2025-10-29,BR003,Western,CAT001,Sales Records,SRC004,1508.01,1.0,Sales Records entry 373
+REC00374,2025-08-27,BR002,Ashanti,CAT006,Supplier Records,SRC002,9459.33,1.0,Supplier Records entry 374
+REC00375,2025-08-17,BR002,Ashanti,CAT005,Payment Records,SRC002,890.83,1.0,Payment Records entry 375
+REC00376,2025-01-15,BR004,Northern,CAT004,Customer Records,SRC003,906.02,1.0,Customer Records entry 376
+REC00377,2025-09-25,BR004,Northern,CAT006,Supplier Records,SRC003,7338.6,1.0,Supplier Records entry 377
+REC00378,2025-08-11,BR001,Greater Accra,CAT004,Customer Records,SRC001,4390.56,1.0,Customer Records entry 378
+REC00379,2025-11-11,BR002,Ashanti,CAT005,Payment Records,SRC001,2976.99,1.0,Payment Records entry 379
+REC00380,2025-03-13,BR004,Northern,CAT006,Supplier Records,SRC002,1098.65,1.0,Supplier Records entry 380
+REC00381,2025-08-04,BR005,Central,CAT005,Payment Records,SRC003,6106.88,1.0,Payment Records entry 381
+REC00382,2025-04-02,BR003,Western,CAT005,Payment Records,SRC001,3286.71,1.0,Payment Records entry 382
+REC00383,2025-03-02,BR002,Ashanti,CAT005,Payment Records,SRC003,4318.66,1.0,Payment Records entry 383
+REC00384,2025-02-03,BR004,Northern,CAT004,Customer Records,SRC001,2645.93,1.0,Customer Records entry 384
+REC00385,2025-10-24,BR003,Western,CAT002,Expense Records,SRC003,3585.3,-1.0,Expense Records entry 385
+REC00386,2025-02-12,BR005,Central,CAT003,Inventory Records,SRC004,7690.22,1.0,Inventory Records entry 386
+REC00387,2025-08-03,BR005,Central,CAT002,Expense Records,SRC001,1937.21,-1.0,Expense Records entry 387
+REC00388,2025-08-14,BR002,Ashanti,CAT004,Customer Records,SRC004,1453.21,1.0,Customer Records entry 388
+REC00389,2025-06-09,BR002,Ashanti,CAT004,Customer Records,SRC001,6238.9,1.0,Customer Records entry 389
+REC00390,2025-07-08,BR003,Western,CAT001,Sales Records,SRC004,5133.76,1.0,Sales Records entry 390
+REC00391,2025-04-22,BR003,Western,CAT001,Sales Records,SRC002,7352.22,1.0,Sales Records entry 391
+REC00392,2025-08-24,BR001,Greater Accra,CAT005,Payment Records,SRC003,7252.59,1.0,Payment Records entry 392
+REC00393,2025-04-07,BR003,Western,CAT005,Payment Records,SRC001,8587.78,1.0,Payment Records entry 393
+REC00394,2025-09-26,BR001,Greater Accra,CAT004,Customer Records,SRC003,4120.9,1.0,Customer Records entry 394
+REC00395,2025-07-01,BR003,Western,CAT002,Expense Records,SRC001,633.09,-1.0,Expense Records entry 395
+REC00396,2025-07-03,BR002,Ashanti,CAT003,Inventory Records,SRC002,4669.85,1.0,Inventory Records entry 396
+REC00397,2025-04-07,BR005,Central,CAT004,Customer Records,SRC001,5509.12,1.0,Customer Records entry 397
+REC00398,2025-06-13,BR002,Ashanti,CAT001,Sales Records,SRC001,6343.37,1.0,Sales Records entry 398
+REC00399,2025-09-15,BR005,Central,CAT002,Expense Records,SRC001,1120.84,-1.0,Expense Records entry 399
+REC00400,2025-03-19,BR004,Northern,CAT001,Sales Records,SRC004,4655.24,1.0,Sales Records entry 400
+REC00401,2025-08-19,BR004,Northern,CAT005,Payment Records,SRC002,1576.19,1.0,Payment Records entry 401
+REC00402,2025-02-05,BR005,Central,CAT003,Inventory Records,SRC002,7347.29,1.0,Inventory Records entry 402
+REC00403,2025-03-18,BR005,Central,CAT004,Customer Records,SRC002,4970.53,1.0,Customer Records entry 403
+REC00404,2025-11-20,BR001,Greater Accra,CAT001,Sales Records,SRC003,1954.87,1.0,Sales Records entry 404
+REC00405,2025-05-22,BR001,Greater Accra,CAT001,Sales Records,SRC003,2306.05,1.0,Sales Records entry 405
+REC00406,2025-11-06,BR003,Western,CAT004,Customer Records,SRC002,2177.35,1.0,Customer Records entry 406
+REC00407,2025-04-25,BR004,Northern,CAT005,Payment Records,SRC001,3968.88,1.0,Payment Records entry 407
+REC00408,2025-06-01,BR004,Northern,CAT002,Expense Records,SRC003,1115.79,-1.0,Expense Records entry 408
+REC00409,2025-06-02,BR002,Ashanti,CAT001,Sales Records,SRC003,252.43,1.0,Sales Records entry 409
+REC00410,2025-05-06,BR004,Northern,CAT003,Inventory Records,SRC004,2759.43,1.0,Inventory Records entry 410
+REC00411,2025-03-31,BR002,Ashanti,CAT005,Payment Records,SRC003,3211.72,1.0,Payment Records entry 411
+REC00412,2025-09-15,BR002,Ashanti,CAT006,Supplier Records,SRC002,3605.39,1.0,Supplier Records entry 412
+REC00413,2025-06-15,BR003,Western,CAT002,Expense Records,SRC003,2037.04,-1.0,Expense Records entry 413
+REC00414,2025-04-20,BR001,Greater Accra,CAT004,Customer Records,SRC003,5205.71,1.0,Customer Records entry 414
+REC00415,2025-07-07,BR005,Central,CAT004,Customer Records,SRC003,2682.46,1.0,Customer Records entry 415
+REC00416,2025-05-20,BR004,Northern,CAT005,Payment Records,SRC001,3894.89,1.0,Payment Records entry 416
+REC00417,2025-07-14,BR003,Western,CAT001,Sales Records,SRC001,2922.41,1.0,Sales Records entry 417
+REC00418,2025-01-16,BR005,Central,CAT004,Customer Records,SRC003,7323.48,1.0,Customer Records entry 418
+REC00419,2025-07-01,BR004,Northern,CAT001,Sales Records,SRC004,3067.47,1.0,Sales Records entry 419
+REC00420,2025-03-17,BR005,Central,CAT006,Supplier Records,SRC003,4432.54,1.0,Supplier Records entry 420
+REC_BAD001,,BR001,Greater Accra,CAT001,Sales Records,SRC001,not available,1.0,Bad row for cleaning

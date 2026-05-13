@@ -1,0 +1,7 @@
+category_id,category_name,category_group,description,normal_sign,is_active
+CAT001,Sales Records,Revenue,"Customer sales, service sales and product sales records",1.0,Yes
+CAT002,Expense Records,Cost,"Utilities, transport, supplies and operational expenses",-1.0,Yes
+CAT003,Inventory Records,Operations,"Stock additions, adjustments, transfers and write offs",1.0,Yes
+CAT004,Customer Records,CRM,"New customers, updates, support tickets and retention activity",1.0,Yes
+CAT005,Payment Records,Finance,"Cash, mobile money, card and bank transfer payments",1.0,Yes
+CAT006,Supplier Records,Procurement,"Supplier orders, invoices, delivery and settlement records",1.0,Yes

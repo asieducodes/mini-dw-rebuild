@@ -1,0 +1,6 @@
+branch_id,branch_name,region,is_active
+BR001,Accra Central,Greater Accra,Yes
+BR002,Kumasi Main,Ashanti,Yes
+BR003,Takoradi Office,Western,Yes
+BR004,Tamale Office,Northern,Yes
+BR005,Cape Coast Office,Central,Yes

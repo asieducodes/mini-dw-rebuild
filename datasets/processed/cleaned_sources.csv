@@ -1,0 +1,5 @@
+source_id,source_name,source_type,owner,is_active
+SRC001,POS System,CSV,Sales Team,Yes
+SRC002,Expense Register,Excel,Accounts Team,Yes
+SRC003,Inventory Sheet,CSV,Stores Team,Yes
+SRC004,CRM Export,CSV,Customer Care,Yes
