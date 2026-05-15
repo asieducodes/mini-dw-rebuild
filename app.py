@@ -292,40 +292,66 @@ if filter_parts:
 st.markdown("<hr style='margin:8px 0 20px'>", unsafe_allow_html=True)
 
 # ── 8. KPI CARDS ──────────────────────────────────────────────────────────────
+# ── 8. KPI CARDS (Responsive Update) ──────────────────────────────────────────
 if df.empty:
     st.warning("No data matches the current filters. Please adjust your selections.")
     st.stop()
 
+# Calculations
 total_records = len(df)
 revenue       = df[df["normal_sign"] == 1]["raw_value"].sum()
 expenses      = df[df["normal_sign"] == -1]["raw_value"].sum()
 net_value     = df["signed_value"].sum()
 net_margin    = (net_value / revenue * 100) if revenue else 0
 
-st.markdown(f"""
-<div class="kpi-grid">
-  <div class="kpi-card blue">
-    <div class="kpi-label">Total Records</div>
-    <div class="kpi-value">{total_records:,}</div>
-    <div class="kpi-sub">transactions in view</div>
-  </div>
-  <div class="kpi-card green">
-    <div class="kpi-label">Total Revenue</div>
-    <div class="kpi-value">GHS {revenue:,.0f}</div>
-    <div class="kpi-sub">normal_sign = +1</div>
-  </div>
-  <div class="kpi-card red">
-    <div class="kpi-label">Total Expenses</div>
-    <div class="kpi-value">GHS {expenses:,.0f}</div>
-    <div class="kpi-sub">normal_sign = −1</div>
-  </div>
-  <div class="kpi-card purple">
-    <div class="kpi-label">Net Value</div>
-    <div class="kpi-value">GHS {net_value:,.0f}</div>
-    <div class="kpi-sub">margin {net_margin:.1f}%</div>
-  </div>
-</div>
+# Inject Responsive CSS
+st.markdown("""
+<style>
+    /* This makes the Streamlit columns wrap on mobile */
+    [data-testid="column"] {
+        width: 100% !important;
+        flex: 1 1 calc(25% - 1rem) !important;
+        min-width: 200px !important;
+    }
+    
+    .kpi-card {
+        background: #161b27;
+        border: 1px solid #2d3748;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 10px;
+        position: relative;
+        overflow: hidden;
+        transition: transform 0.2s;
+    }
+    
+    .kpi-card:hover {
+        transform: translateY(-2px);
+        border-color: #4a5568;
+    }
+</style>
 """, unsafe_allow_html=True)
+
+def kpi_card(label, value, sub, accent):
+    return f"""
+    <div class="kpi-card">
+      <div style="position:absolute;top:0;left:0;right:0;height:3px;background:{accent};"></div>
+      <div style="font-size:10px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#718096;margin-bottom:8px;">{label}</div>
+      <div style="font-size:24px;font-weight:700;color:#f7fafc;font-family:'DM Mono',monospace;line-height:1.1;">{value}</div>
+      <div style="font-size:12px;color:#4a5568;margin-top:6px;">{sub}</div>
+    </div>"""
+
+# Use columns (Streamlit will now handle the wrapping thanks to the CSS above)
+k1, k2, k3, k4 = st.columns(4)
+
+with k1:
+    st.markdown(kpi_card("Total Records", f"{total_records:,}", "transactions in view", "#3b82f6"), unsafe_allow_html=True)
+with k2:
+    st.markdown(kpi_card("Total Revenue", f"GHS {revenue:,.0f}", "normal_sign = +1", "#10b981"), unsafe_allow_html=True)
+with k3:
+    st.markdown(kpi_card("Total Expenses", f"GHS {expenses:,.0f}", "normal_sign = −1", "#ef4444"), unsafe_allow_html=True)
+with k4:
+    st.markdown(kpi_card("Net Value", f"GHS {net_value:,.0f}", f"margin {net_margin:.1f}%", "#8b5cf6"), unsafe_allow_html=True)
 
 # ── 9. ROW 1: Time-Series Charts ───────────────────────────────────────────────
 st.markdown('<div class="section-header">Time Series Analysis</div>', unsafe_allow_html=True)
